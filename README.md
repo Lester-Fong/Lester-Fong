@@ -8,10 +8,9 @@
 
 ### Connect with me 🔗:
 
-[<img align="left" alt ="facebook" width="22px" src="https://github.com/Lester-Fong/Lester-Fong/blob/master/img/facebook.webp" />][facebook]
-[<img align="left" alt ="instagram" width="22px" src="https://github.com/Lester-Fong/Lester-Fong/blob/master/img/instagram.png" />][instagram]
-[<img align="left" alt ="youtube" width="22px" src="https://github.com/Lester-Fong/Lester-Fong/blob/master/img/youtube.png" />][youtube]
-[<img align="left" alt ="linkedin" width="22px" src="https://github.com/Lester-Fong/Lester-Fong/blob/master/img/linkedin.jpg" />][linkedin]
+[<img align="left" alt ="facebook" width="22px" src="https://github.com/Lester-Fong/Lester-Fong/blob/main/img/facebook.webp" />][facebook]
+[<img align="left" alt ="instagram" width="22px" src="https://github.com/Lester-Fong/Lester-Fong/blob/main/img/instagram.png" />][instagram]
+[<img align="left" alt ="linkedin" width="22px" src="https://github.com/Lester-Fong/Lester-Fong/blob/main/img/linkedin.jpg" />][linkedin]
 
 
 <!--
