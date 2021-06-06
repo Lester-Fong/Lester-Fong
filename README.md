@@ -20,6 +20,7 @@
 
 [facebook]: https://www.facebook.com/LesterNielFong22
 [linkedin]: https://www.linkedin.com/in/lesterfong22/
+[instagram]: https://www.instagram.com/fonggi_/
 [vscode]: https://code.visualstudio.com/
 [html]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
