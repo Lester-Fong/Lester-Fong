@@ -1,4 +1,4 @@
-## Hi there, It's Lester✨<hr>
+## Hi there, It's Lester ✨
 ### I'm a Student who always wants to better himself. Passionate self-taught developer. 
 
 - 🌱 I’m currently learning Web Development.
