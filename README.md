@@ -1,7 +1,6 @@
-## Hi there, It's Lester✨
+## Hi there, It's Lester✨<hr>
 
-### I'm a Student who always wants to better himself. Passionate self-taught developer. <hr>
-
+### I'm a Student who always wants to better himself. Passionate self-taught developer. 
 ## Hi! I'm trying my best.
 - 🌱 I’m currently learning Web Development.
 - 🎆 To be more discipline is my goal this year!
