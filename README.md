@@ -12,7 +12,17 @@
 [<img align="left" alt ="instagram" width="22px" src="https://github.com/Lester-Fong/Lester-Fong/blob/main/img/instagram.png" />][instagram]
 [<img align="left" alt ="linkedin" width="22px" src="https://github.com/Lester-Fong/Lester-Fong/blob/main/img/linkedin.jpg" />][linkedin]
 
+<br>
 
+<code><img height="35" alt="Git" src="https://github.com/Lester-Fong/Lester-Fong/blob/main/img/git.png"></code>
+<code><img height="40" alt="html5" src="https://github.com/Lester-Fong/Lester-Fong/blob/main/img/html.png"></code>
+<code><img height="40" alt="Css3" src="https://github.com/Lester-Fong/Lester-Fong/blob/main/img/css.png"></code>
+
+[facebook]: https://www.facebook.com/LesterNielFong22
+[linkedin]: https://www.linkedin.com/in/lesterfong22/
+[vscode]: https://code.visualstudio.com/
+[html]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 <!--
 **Lester-Fong/Lester-Fong** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
