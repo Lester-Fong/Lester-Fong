@@ -18,6 +18,7 @@
 <code><img height="35" alt="Git" src="https://github.com/Lester-Fong/Lester-Fong/blob/main/img/git.png"></code>
 <code><img height="40" alt="html5" src="https://github.com/Lester-Fong/Lester-Fong/blob/main/img/html.png"></code>
 <code><img height="40" alt="Css3" src="https://github.com/Lester-Fong/Lester-Fong/blob/main/img/css.png"></code>
+<code><img height="40" alt="js" src="https://github.com/Lester-Fong/Lester-Fong/blob/main/img/javascript.png"></code>
 
 [facebook]: https://www.facebook.com/LesterNielFong22
 [linkedin]: https://www.linkedin.com/in/lesterfong22/
