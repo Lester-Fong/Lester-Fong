@@ -19,6 +19,10 @@
 <code><img height="40" alt="html5" src="https://github.com/Lester-Fong/Lester-Fong/blob/main/img/html.png"></code>
 <code><img height="40" alt="Css3" src="https://github.com/Lester-Fong/Lester-Fong/blob/main/img/css.png"></code>
 <code><img height="40" alt="js" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png"></code>
+<code><img height="40" alt="php" src="https://iconape.com/wp-content/files/hc/353261/png/353261.png"></code>
+<code><img height="40" alt="vue" src="https://static-00.iconduck.com/assets.00/vue-icon-512x442-j09z7tua.png"></code>
+<code><img height="40" alt="laravel" src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png"></code>
+<code><img height="40" alt="graphql" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png"></code>
 
 [facebook]: https://www.facebook.com/LesterNielFong22
 [linkedin]: https://www.linkedin.com/in/lesterfong22/
