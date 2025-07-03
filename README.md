@@ -1,7 +1,7 @@
 ## Hi there, It's Lester
 ### A Fullstack Developer who always wants to better himself by consistently upskilling. Passionate self-taught developer but also a team worker. 
 
-- 🌱 I’m currently AWS, Azure and Deployment
+- 🌱 I’m currently learning AWS, Azure and Deployment
 - 🎆 To be more discipline is my goal this year!
 - ♋ "Don't let your dreams, just be dreams" is my motto.
 - ⚡ Fun fact: Lester is Retsel if you spell it backwards.
